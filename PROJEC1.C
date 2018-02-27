@@ -381,7 +381,6 @@ showmousetext();
 detectmouse();
 settextstyle(DEFAULT_FONT,HORIZ_DIR,1);
 setcolor(GREEN);
-outtextxy(359,450,"Developers:Biplab,Alex,Anish,Mitesh");
 in.x.ax=0;
 int86(0X33,&in,&in);
 in.x.ax=1;
@@ -581,7 +580,6 @@ outtextxy(e+(30*i),f,z);
 }
 settextstyle(DEFAULT_FONT,HORIZ_DIR,1);
 setcolor(GREEN);
-outtextxy(359,450,"Developers:Biplab,Alex,Anish,Mitesh");
 showmousetext();
 detectmouse();
 in.x.ax=0;
