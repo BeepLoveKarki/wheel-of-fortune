@@ -12,5 +12,4 @@ Some screenshots of the game are:
 <img src="https://github.com/BeepLoveKarki/wheel_of_fortune/blob/master/img/Screenshot%20(18).png"/>
 <img src="https://github.com/BeepLoveKarki/wheel_of_fortune/blob/master/img/Screenshot%20(19).png"/>
 <img src="https://github.com/BeepLoveKarki/wheel_of_fortune/blob/master/img/Screenshot%20(20).png"/>
-<img src="https://github.com/BeepLoveKarki/wheel_of_fortune/blob/master/img/Screenshot%20(21).png"/>
 <img src="https://github.com/BeepLoveKarki/wheel_of_fortune/blob/master/img/Screenshot%20(22).png"/>
